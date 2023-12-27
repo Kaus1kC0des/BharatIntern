@@ -1,0 +1,17 @@
+*.heic
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+Machine Learning Intern/Cats Vs Dogs Classifier/data/train/dogs/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/train/cats/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/test/dogs/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/test/cats/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/dogs_vs_cats/test/cats/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/dogs_vs_cats/test/dogs/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/dogs_vs_cats/train/cats/*.jpg
+Machine Learning Intern/Cats Vs Dogs Classifier/data/dogs_vs_cats/train/dogs/*.jpg
+
+
