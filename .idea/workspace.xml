@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23576db5-065c-40be-aa73-31e50de1a468" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BharatIntern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BharatIntern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kausik/Library/CloudStorage/GoogleDrive-kausikdevanathan@gmail.com/My Drive/SEM III/AI/Lab Solutions/BharatIntern/Machine Learning Intern/Cats Vs Dogs Classifier/data",
+    "last_opened_file_path": "/Users/kausik/PycharmProjects/BharatIntern/Machine Learning Intern/Cats Vs Dogs Classifier/data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +61,7 @@
       <updated>1703610208572</updated>
       <workItem from="1703610209906" duration="1000" />
       <workItem from="1703657205231" duration="2894000" />
+      <workItem from="1703684394181" duration="529000" />
     </task>
     <servers />
   </component>
