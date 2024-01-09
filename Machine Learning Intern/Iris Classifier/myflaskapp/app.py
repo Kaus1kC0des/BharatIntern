@@ -4,7 +4,7 @@ import numpy as np
 import logging
 
 app = Flask(__name__)
-logging.basicConfig(filename="logs/app.txt",level=logging.DEBUG)
+logging.basicConfig(filename="logs/app.txt", level=logging.DEBUG)
 prediction = ""
 
 @app.route('/')
