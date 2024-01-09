@@ -8,16 +8,16 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+plotly = "*"
+cufflinks = "*"
 scipy = "*"
 scikit-learn = "*"
 jupyter = "*"
 jupyterlab = "*"
 keras = "*"
 tensorflow = "*"
-torch = "*"
-
-
 pydot = "*"
+tqdm = "*"
 
 [dev-packages]
 
